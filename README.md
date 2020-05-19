@@ -30,3 +30,8 @@ O ranking mostra além do nome e pontos do jogador, as suas jogadas, que é o cr
 
 # Funcionalidades Gerais
 Ao iniciar o jogo, é gerado dois arquivos: ranking.bin e config.txt, que correspondem ao ranking e as configurações de jogo, respectivamente. Caso os arquivos sejam apagados, o programa sempre gera ambos novamente, para seu funcionamento
+
+# Screenshots
+![](screenshots/menu-principal.PNG)
+![](screenshots/regras.PNG)
+![](screenshots/rankeado.PNG)
